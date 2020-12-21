@@ -1,2 +1,2 @@
 # PhotoAppZuulApiGateway
-Zuul Api Gateway
+Photo App Zuul Api Gateway
